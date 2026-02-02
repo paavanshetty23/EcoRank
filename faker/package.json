@@ -1,0 +1,12 @@
+{
+  "name": "faker-candidate-generator",
+  "version": "1.0.0",
+  "description": "Generate fake candidate data for recycling manager selection system",
+  "main": "generateCandidates.js",
+  "scripts": {
+    "generate": "node generateCandidates.js"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}

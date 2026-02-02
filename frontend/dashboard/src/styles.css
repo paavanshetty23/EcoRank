@@ -1,0 +1,201 @@
+/**
+ * Global Styles
+ * 
+ * Purpose: Define CSS variables and global styles for professional dashboard
+ * - White background throughout
+ * - Consistent color palette for text and UI elements
+ * - Metric-specific colors for Crisis/Sustainability/Team
+ * - Card shadows and borders
+ */
+
+:root {
+  /* Background */
+  --bg: #ffffff;
+  
+  /* Text colors */
+  --text-strong: #111827;
+  --text-muted: #6b7280;
+  
+  /* Surface styling */
+  --surface-border: #e6e8eb;
+  --card-shadow: 0 6px 18px rgba(17, 24, 39, 0.06);
+  
+  /* Primary accent */
+  --accent-blue: #0f62fe;
+  
+  /* Metric colors - consistent across all visualizations */
+  --metric-red: #d9534f;      /* Crisis Management */
+  --metric-green: #28a745;    /* Sustainability */
+  --metric-blue: #2b7be4;     /* Team Motivation */
+  
+  /* Tier colors for total scores */
+  --tier-high: #28a745;       /* >= 85 */
+  --tier-mid: #0f62fe;        /* 70-84 */
+  --tier-low: #d9534f;        /* < 70 */
+}
+
+/* Ensure pure white background everywhere */
+body {
+  background-color: var(--bg);
+  color: var(--text-strong);
+  margin: 0;
+  padding: 0;
+}
+
+/* Professional table styling with compact cells */
+.table-compact td,
+.table-compact th {
+  padding: 10px 12px !important;
+  vertical-align: middle;
+}
+
+.table-compact thead th {
+  color: var(--text-muted);
+  font-weight: 600;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.025em;
+  border-bottom: 2px solid var(--surface-border);
+}
+
+.table-compact tbody tr {
+  border-bottom: 1px solid var(--surface-border);
+  transition: background-color 0.15s ease;
+}
+
+.table-compact tbody tr:hover {
+  background-color: rgba(15, 98, 254, 0.02);
+}
+
+/* Compact rank badges */
+.rank-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  font-weight: 700;
+  font-size: 0.875rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.rank-badge-1 {
+  background: linear-gradient(135deg, #f59e0b, #fbbf24);
+  color: #ffffff;
+}
+
+.rank-badge-2 {
+  background: linear-gradient(135deg, #9ca3af, #d1d5db);
+  color: #111827;
+}
+
+.rank-badge-3 {
+  background: linear-gradient(135deg, #d97706, #f59e0b);
+  color: #ffffff;
+}
+
+.rank-badge-other {
+  background: #f3f4f6;
+  color: var(--text-muted);
+  border: 1px solid var(--surface-border);
+}
+
+/* Metric badges with subtle backgrounds */
+.metric-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.metric-badge-crisis {
+  background: rgba(217, 83, 79, 0.08);
+  color: var(--metric-red);
+}
+
+.metric-badge-sustainability {
+  background: rgba(40, 167, 69, 0.08);
+  color: var(--metric-green);
+}
+
+.metric-badge-team {
+  background: rgba(43, 123, 228, 0.08);
+  color: var(--metric-blue);
+}
+
+/* Professional card styling */
+.professional-card {
+  background: var(--bg);
+  border: 1px solid var(--surface-border);
+  box-shadow: var(--card-shadow);
+  border-radius: 8px;
+  padding: 18px;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.professional-card:hover {
+  box-shadow: 0 12px 24px rgba(17, 24, 39, 0.1);
+  transform: translateY(-2px);
+}
+
+/* Legend items for compact display */
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+}
+
+.legend-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.legend-dot-crisis {
+  background: var(--metric-red);
+}
+
+.legend-dot-sustainability {
+  background: var(--metric-green);
+}
+
+.legend-dot-team {
+  background: var(--metric-blue);
+}
+
+/* Dev note styling */
+.dev-note {
+  font-family: var(--font-family-monospace, 'Consolas', monospace);
+  font-size: 11px;
+  color: var(--text-muted);
+  background: #f9fafb;
+  border: 1px solid var(--surface-border);
+  padding: 8px 10px;
+  border-radius: 4px;
+}
+
+/* Focus styles for accessibility */
+*:focus-visible {
+  outline: 2px solid var(--accent-blue);
+  outline-offset: 2px;
+}
+
+/* Smooth transitions */
+* {
+  transition-duration: 0.15s;
+  transition-timing-function: ease;
+}
+
+/* Override any Mantine defaults to ensure white background */
+.mantine-AppShell-root,
+.mantine-Container-root {
+  background-color: var(--bg) !important;
+}

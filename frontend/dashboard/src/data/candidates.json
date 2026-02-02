@@ -1,0 +1,687 @@
+[
+  {
+    "id": 1,
+    "name": "Micheal VonRueden",
+    "years_experience": 9,
+    "skills": [
+      "Safety Compliance",
+      "Operations",
+      "Logistics",
+      "Lean Manufacturing",
+      "Team Leadership"
+    ],
+    "crisis_management_score": 81.4,
+    "sustainability_score": 53.6,
+    "team_motivation_score": 84.6,
+    "total_score": 73.2
+  },
+  {
+    "id": 2,
+    "name": "Joanne Treutel",
+    "years_experience": 5,
+    "skills": [
+      "Logistics",
+      "Safety Compliance",
+      "Operations",
+      "Maintenance",
+      "Team Leadership",
+      "Lean Manufacturing"
+    ],
+    "crisis_management_score": 45.7,
+    "sustainability_score": 53.4,
+    "team_motivation_score": 59.6,
+    "total_score": 52.9
+  },
+  {
+    "id": 3,
+    "name": "Randal Lehner",
+    "years_experience": 4,
+    "skills": [
+      "Sustainability",
+      "Logistics",
+      "Safety Compliance",
+      "Operations",
+      "Maintenance"
+    ],
+    "crisis_management_score": 45.1,
+    "sustainability_score": 58.9,
+    "team_motivation_score": 62.6,
+    "total_score": 55.53333333333333
+  },
+  {
+    "id": 4,
+    "name": "Miss Felicia Hegmann",
+    "years_experience": 2,
+    "skills": [
+      "Lean Manufacturing",
+      "Logistics",
+      "Operations",
+      "Safety Compliance",
+      "Maintenance",
+      "Team Leadership",
+      "Sustainability"
+    ],
+    "crisis_management_score": 42,
+    "sustainability_score": 44.6,
+    "team_motivation_score": 77.5,
+    "total_score": 54.699999999999996
+  },
+  {
+    "id": 5,
+    "name": "Miranda Will",
+    "years_experience": 14,
+    "skills": [
+      "Safety Compliance",
+      "Operations",
+      "Team Leadership",
+      "Maintenance",
+      "Sustainability",
+      "Logistics",
+      "Lean Manufacturing"
+    ],
+    "crisis_management_score": 73.1,
+    "sustainability_score": 54.5,
+    "team_motivation_score": 94.3,
+    "total_score": 73.96666666666665
+  },
+  {
+    "id": 6,
+    "name": "Brett Rodriguez",
+    "years_experience": 12,
+    "skills": [
+      "Maintenance",
+      "Operations",
+      "Team Leadership",
+      "Sustainability",
+      "Safety Compliance",
+      "Logistics"
+    ],
+    "crisis_management_score": 50.9,
+    "sustainability_score": 58.5,
+    "team_motivation_score": 85.4,
+    "total_score": 64.93333333333334
+  },
+  {
+    "id": 7,
+    "name": "Leon Flatley-Ankunding",
+    "years_experience": 19,
+    "skills": [
+      "Maintenance",
+      "Team Leadership",
+      "Logistics",
+      "Safety Compliance",
+      "Operations"
+    ],
+    "crisis_management_score": 66.2,
+    "sustainability_score": 62.1,
+    "team_motivation_score": 95.1,
+    "total_score": 74.46666666666667
+  },
+  {
+    "id": 8,
+    "name": "Stephanie Douglas",
+    "years_experience": 2,
+    "skills": [
+      "Safety Compliance",
+      "Logistics",
+      "Sustainability",
+      "Lean Manufacturing",
+      "Maintenance"
+    ],
+    "crisis_management_score": 81.7,
+    "sustainability_score": 95.4,
+    "team_motivation_score": 95.4,
+    "total_score": 90.83333333333333
+  },
+  {
+    "id": 9,
+    "name": "Miss Ethel Jerde",
+    "years_experience": 2,
+    "skills": [
+      "Team Leadership",
+      "Sustainability",
+      "Operations",
+      "Lean Manufacturing",
+      "Safety Compliance",
+      "Maintenance",
+      "Logistics"
+    ],
+    "crisis_management_score": 62.5,
+    "sustainability_score": 59.2,
+    "team_motivation_score": 62.3,
+    "total_score": 61.333333333333336
+  },
+  {
+    "id": 10,
+    "name": "Norma McClure",
+    "years_experience": 10,
+    "skills": [
+      "Sustainability",
+      "Operations",
+      "Team Leadership",
+      "Safety Compliance",
+      "Logistics",
+      "Maintenance",
+      "Lean Manufacturing"
+    ],
+    "crisis_management_score": 63.1,
+    "sustainability_score": 89.9,
+    "team_motivation_score": 64.6,
+    "total_score": 72.53333333333333
+  },
+  {
+    "id": 11,
+    "name": "Anita Kemmer",
+    "years_experience": 2,
+    "skills": [
+      "Team Leadership",
+      "Logistics",
+      "Safety Compliance",
+      "Operations",
+      "Lean Manufacturing",
+      "Sustainability",
+      "Maintenance"
+    ],
+    "crisis_management_score": 49.1,
+    "sustainability_score": 73.8,
+    "team_motivation_score": 69.7,
+    "total_score": 64.2
+  },
+  {
+    "id": 12,
+    "name": "Dean Ankunding",
+    "years_experience": 5,
+    "skills": [
+      "Team Leadership",
+      "Operations",
+      "Safety Compliance",
+      "Maintenance",
+      "Sustainability"
+    ],
+    "crisis_management_score": 75.4,
+    "sustainability_score": 60.2,
+    "team_motivation_score": 73.8,
+    "total_score": 69.80000000000001
+  },
+  {
+    "id": 13,
+    "name": "Genevieve King DVM",
+    "years_experience": 12,
+    "skills": [
+      "Lean Manufacturing",
+      "Operations",
+      "Team Leadership",
+      "Sustainability",
+      "Logistics",
+      "Safety Compliance"
+    ],
+    "crisis_management_score": 85.5,
+    "sustainability_score": 94.6,
+    "team_motivation_score": 89.8,
+    "total_score": 89.96666666666665
+  },
+  {
+    "id": 14,
+    "name": "Irene Brekke",
+    "years_experience": 14,
+    "skills": [
+      "Team Leadership",
+      "Operations",
+      "Safety Compliance",
+      "Maintenance",
+      "Sustainability",
+      "Logistics",
+      "Lean Manufacturing"
+    ],
+    "crisis_management_score": 58.2,
+    "sustainability_score": 96.1,
+    "team_motivation_score": 73.1,
+    "total_score": 75.8
+  },
+  {
+    "id": 15,
+    "name": "Mr. Dominic Collier DVM",
+    "years_experience": 6,
+    "skills": [
+      "Safety Compliance",
+      "Maintenance",
+      "Team Leadership",
+      "Sustainability",
+      "Logistics",
+      "Operations",
+      "Lean Manufacturing"
+    ],
+    "crisis_management_score": 76.1,
+    "sustainability_score": 69.9,
+    "team_motivation_score": 78,
+    "total_score": 74.66666666666667
+  },
+  {
+    "id": 16,
+    "name": "Brandon Jerde",
+    "years_experience": 10,
+    "skills": [
+      "Maintenance",
+      "Operations",
+      "Logistics",
+      "Lean Manufacturing",
+      "Team Leadership"
+    ],
+    "crisis_management_score": 42.9,
+    "sustainability_score": 69,
+    "team_motivation_score": 82.7,
+    "total_score": 64.86666666666667
+  },
+  {
+    "id": 17,
+    "name": "Evelyn Daniel",
+    "years_experience": 8,
+    "skills": [
+      "Lean Manufacturing",
+      "Team Leadership",
+      "Maintenance",
+      "Operations",
+      "Safety Compliance",
+      "Logistics",
+      "Sustainability"
+    ],
+    "crisis_management_score": 95.5,
+    "sustainability_score": 40.7,
+    "team_motivation_score": 69.4,
+    "total_score": 68.53333333333333
+  },
+  {
+    "id": 18,
+    "name": "Yvonne Dare",
+    "years_experience": 18,
+    "skills": [
+      "Sustainability",
+      "Operations",
+      "Lean Manufacturing",
+      "Logistics",
+      "Team Leadership",
+      "Maintenance",
+      "Safety Compliance"
+    ],
+    "crisis_management_score": 48,
+    "sustainability_score": 66.8,
+    "team_motivation_score": 95.5,
+    "total_score": 70.10000000000001
+  },
+  {
+    "id": 19,
+    "name": "Randolph Roberts",
+    "years_experience": 18,
+    "skills": [
+      "Maintenance",
+      "Operations",
+      "Logistics",
+      "Lean Manufacturing",
+      "Team Leadership",
+      "Sustainability",
+      "Safety Compliance"
+    ],
+    "crisis_management_score": 92.9,
+    "sustainability_score": 41.2,
+    "team_motivation_score": 71.8,
+    "total_score": 68.63333333333334
+  },
+  {
+    "id": 20,
+    "name": "Alyssa Flatley",
+    "years_experience": 7,
+    "skills": [
+      "Maintenance",
+      "Safety Compliance",
+      "Team Leadership",
+      "Logistics",
+      "Sustainability"
+    ],
+    "crisis_management_score": 61.7,
+    "sustainability_score": 73.7,
+    "team_motivation_score": 75.8,
+    "total_score": 70.39999999999999
+  },
+  {
+    "id": 21,
+    "name": "Danny Lesch DVM",
+    "years_experience": 10,
+    "skills": [
+      "Maintenance",
+      "Team Leadership",
+      "Operations",
+      "Sustainability",
+      "Safety Compliance"
+    ],
+    "crisis_management_score": 78.3,
+    "sustainability_score": 83.8,
+    "team_motivation_score": 78.2,
+    "total_score": 80.10000000000001
+  },
+  {
+    "id": 22,
+    "name": "Caleb Ziemann DDS",
+    "years_experience": 4,
+    "skills": [
+      "Sustainability",
+      "Logistics",
+      "Team Leadership",
+      "Safety Compliance",
+      "Operations",
+      "Maintenance"
+    ],
+    "crisis_management_score": 75.9,
+    "sustainability_score": 40.4,
+    "team_motivation_score": 71.6,
+    "total_score": 62.63333333333333
+  },
+  {
+    "id": 23,
+    "name": "Lana Hermann",
+    "years_experience": 16,
+    "skills": [
+      "Sustainability",
+      "Operations",
+      "Logistics",
+      "Team Leadership",
+      "Maintenance",
+      "Lean Manufacturing"
+    ],
+    "crisis_management_score": 81.6,
+    "sustainability_score": 43,
+    "team_motivation_score": 89.2,
+    "total_score": 71.26666666666667
+  },
+  {
+    "id": 24,
+    "name": "Mr. Karl Wisoky",
+    "years_experience": 6,
+    "skills": [
+      "Maintenance",
+      "Operations",
+      "Team Leadership",
+      "Logistics",
+      "Lean Manufacturing"
+    ],
+    "crisis_management_score": 74.4,
+    "sustainability_score": 84.1,
+    "team_motivation_score": 79.9,
+    "total_score": 79.46666666666667
+  },
+  {
+    "id": 25,
+    "name": "Mr. Dwayne Howe",
+    "years_experience": 4,
+    "skills": [
+      "Team Leadership",
+      "Sustainability",
+      "Safety Compliance",
+      "Operations",
+      "Lean Manufacturing",
+      "Maintenance",
+      "Logistics"
+    ],
+    "crisis_management_score": 86.8,
+    "sustainability_score": 64.1,
+    "team_motivation_score": 86.3,
+    "total_score": 79.06666666666666
+  },
+  {
+    "id": 26,
+    "name": "Latoya Lakin",
+    "years_experience": 20,
+    "skills": [
+      "Logistics",
+      "Operations",
+      "Maintenance",
+      "Lean Manufacturing",
+      "Safety Compliance",
+      "Sustainability",
+      "Team Leadership"
+    ],
+    "crisis_management_score": 47.4,
+    "sustainability_score": 43.5,
+    "team_motivation_score": 47,
+    "total_score": 45.96666666666667
+  },
+  {
+    "id": 27,
+    "name": "Daryl Kuhn",
+    "years_experience": 4,
+    "skills": [
+      "Team Leadership",
+      "Logistics",
+      "Sustainability",
+      "Lean Manufacturing",
+      "Safety Compliance",
+      "Operations",
+      "Maintenance"
+    ],
+    "crisis_management_score": 69.6,
+    "sustainability_score": 51.8,
+    "team_motivation_score": 70.5,
+    "total_score": 63.96666666666666
+  },
+  {
+    "id": 28,
+    "name": "Mr. Dustin McLaughlin",
+    "years_experience": 20,
+    "skills": [
+      "Sustainability",
+      "Team Leadership",
+      "Lean Manufacturing",
+      "Operations",
+      "Safety Compliance"
+    ],
+    "crisis_management_score": 61.8,
+    "sustainability_score": 50.6,
+    "team_motivation_score": 89.9,
+    "total_score": 67.43333333333334
+  },
+  {
+    "id": 29,
+    "name": "Cornelius Murazik",
+    "years_experience": 3,
+    "skills": [
+      "Logistics",
+      "Safety Compliance",
+      "Maintenance",
+      "Operations",
+      "Team Leadership"
+    ],
+    "crisis_management_score": 76.8,
+    "sustainability_score": 60.1,
+    "team_motivation_score": 62,
+    "total_score": 66.3
+  },
+  {
+    "id": 30,
+    "name": "Cheryl Rau",
+    "years_experience": 18,
+    "skills": [
+      "Team Leadership",
+      "Sustainability",
+      "Safety Compliance",
+      "Logistics",
+      "Maintenance"
+    ],
+    "crisis_management_score": 82.3,
+    "sustainability_score": 66,
+    "team_motivation_score": 62.7,
+    "total_score": 70.33333333333333
+  },
+  {
+    "id": 31,
+    "name": "Anne Stehr",
+    "years_experience": 5,
+    "skills": [
+      "Maintenance",
+      "Safety Compliance",
+      "Logistics",
+      "Operations",
+      "Sustainability",
+      "Lean Manufacturing",
+      "Team Leadership"
+    ],
+    "crisis_management_score": 62.4,
+    "sustainability_score": 56,
+    "team_motivation_score": 67.9,
+    "total_score": 62.1
+  },
+  {
+    "id": 32,
+    "name": "Fred Runolfsdottir",
+    "years_experience": 18,
+    "skills": [
+      "Safety Compliance",
+      "Lean Manufacturing",
+      "Sustainability",
+      "Maintenance",
+      "Team Leadership"
+    ],
+    "crisis_management_score": 65.4,
+    "sustainability_score": 42.3,
+    "team_motivation_score": 68.9,
+    "total_score": 58.866666666666674
+  },
+  {
+    "id": 33,
+    "name": "Jeff Durgan",
+    "years_experience": 17,
+    "skills": [
+      "Sustainability",
+      "Operations",
+      "Team Leadership",
+      "Maintenance",
+      "Lean Manufacturing",
+      "Logistics",
+      "Safety Compliance"
+    ],
+    "crisis_management_score": 55.9,
+    "sustainability_score": 43.8,
+    "team_motivation_score": 98.5,
+    "total_score": 66.06666666666666
+  },
+  {
+    "id": 34,
+    "name": "Johnnie Hermiston",
+    "years_experience": 15,
+    "skills": [
+      "Lean Manufacturing",
+      "Safety Compliance",
+      "Team Leadership",
+      "Operations",
+      "Sustainability",
+      "Logistics",
+      "Maintenance"
+    ],
+    "crisis_management_score": 48.4,
+    "sustainability_score": 71.6,
+    "team_motivation_score": 46.9,
+    "total_score": 55.63333333333333
+  },
+  {
+    "id": 35,
+    "name": "Shannon Kutch",
+    "years_experience": 4,
+    "skills": [
+      "Lean Manufacturing",
+      "Maintenance",
+      "Safety Compliance",
+      "Sustainability",
+      "Operations",
+      "Logistics",
+      "Team Leadership"
+    ],
+    "crisis_management_score": 87.2,
+    "sustainability_score": 47.8,
+    "team_motivation_score": 91.7,
+    "total_score": 75.56666666666666
+  },
+  {
+    "id": 36,
+    "name": "Marco Rau",
+    "years_experience": 11,
+    "skills": [
+      "Sustainability",
+      "Team Leadership",
+      "Lean Manufacturing",
+      "Operations",
+      "Safety Compliance"
+    ],
+    "crisis_management_score": 72.9,
+    "sustainability_score": 54.1,
+    "team_motivation_score": 86.8,
+    "total_score": 71.26666666666667
+  },
+  {
+    "id": 37,
+    "name": "Michelle Hirthe",
+    "years_experience": 16,
+    "skills": [
+      "Team Leadership",
+      "Logistics",
+      "Safety Compliance",
+      "Lean Manufacturing",
+      "Maintenance",
+      "Operations",
+      "Sustainability"
+    ],
+    "crisis_management_score": 60.5,
+    "sustainability_score": 50.7,
+    "team_motivation_score": 70.2,
+    "total_score": 60.46666666666667
+  },
+  {
+    "id": 38,
+    "name": "Brittany Jast DDS",
+    "years_experience": 11,
+    "skills": [
+      "Logistics",
+      "Maintenance",
+      "Operations",
+      "Safety Compliance",
+      "Lean Manufacturing",
+      "Team Leadership",
+      "Sustainability"
+    ],
+    "crisis_management_score": 73.6,
+    "sustainability_score": 62.3,
+    "team_motivation_score": 94.1,
+    "total_score": 76.66666666666666
+  },
+  {
+    "id": 39,
+    "name": "Sarah Jones",
+    "years_experience": 8,
+    "skills": [
+      "Operations",
+      "Logistics",
+      "Lean Manufacturing",
+      "Maintenance",
+      "Team Leadership",
+      "Safety Compliance"
+    ],
+    "crisis_management_score": 92.5,
+    "sustainability_score": 62.7,
+    "team_motivation_score": 79.8,
+    "total_score": 78.33333333333333
+  },
+  {
+    "id": 40,
+    "name": "Seth Fahey",
+    "years_experience": 11,
+    "skills": [
+      "Sustainability",
+      "Operations",
+      "Safety Compliance",
+      "Team Leadership",
+      "Lean Manufacturing",
+      "Maintenance"
+    ],
+    "crisis_management_score": 86.8,
+    "sustainability_score": 56.3,
+    "team_motivation_score": 54.1,
+    "total_score": 65.73333333333333
+  }
+]
